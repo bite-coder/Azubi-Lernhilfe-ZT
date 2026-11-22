@@ -1,0 +1,1651 @@
+[
+  {
+    "id": "LF1-001",
+    "lernfeld": 1,
+    "thema": "Arbeitsunterlagen",
+    "typ": "single",
+    "frage": "Was bedeutet die Lagebezeichnung „vestibulär“?",
+    "optionen": [
+      "Zur Zunge hin",
+      "Zur Wangen- bzw. Lippenseite hin",
+      "Zur Mitte des Zahnbogens hin",
+      "Zur Kaufläche hin"
+    ],
+    "loesung": 1,
+    "erklaerung": "Vestibulär zeigt zum Vorhof der Mundhöhle, also zu Lippe oder Wange. Zur Zunge hin heißt oral bzw. lingual.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF1-002",
+    "lernfeld": 1,
+    "thema": "Arbeitsunterlagen",
+    "typ": "single",
+    "frage": "Welcher Abformwerkstoff ist ein irreversibles Hydrokolloid?",
+    "optionen": [
+      "Alginat",
+      "Additionsvernetzendes Silikon",
+      "Polyether",
+      "Abformgips"
+    ],
+    "loesung": 0,
+    "erklaerung": "Alginat bindet durch eine chemische Reaktion zum elastischen Gel ab und lässt sich danach nicht wieder verflüssigen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF1-003",
+    "lernfeld": 1,
+    "thema": "Arbeitsunterlagen",
+    "typ": "kurz",
+    "frage": "Wie lautet die FDI-Zahnbezeichnung für den oberen rechten ersten Molaren?",
+    "musterantwort": "16. Die erste Ziffer steht für den Quadranten (1 = oben rechts), die zweite für den Zahn (6 = erster Molar).",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF1-004",
+    "lernfeld": 1,
+    "thema": "Arbeitsunterlagen",
+    "typ": "multiple",
+    "frage": "Welche Anforderungen stellt man an einen Modellwerkstoff? (Mehrfachauswahl)",
+    "optionen": [
+      "Geringe Abbindeexpansion",
+      "Hohe Druck- und Kantenfestigkeit",
+      "Exakte Detailwiedergabe",
+      "Hohe Wasserlöslichkeit"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Ein Modell muss maßgenau, stabil und detailgetreu sein. Wasserlöslichkeit wäre ein Nachteil.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF2-005",
+    "lernfeld": 2,
+    "thema": "Kaubewegungen",
+    "typ": "single",
+    "frage": "Was versteht man unter Interkuspidation?",
+    "optionen": [
+      "Maximale Vielpunktkontakte der Zahnreihen in der Schlussbissstellung",
+      "Maximale Mundöffnung",
+      "Seitliche Vorschubbewegung des Unterkiefers",
+      "Ruhelage des Unterkiefers ohne Zahnkontakt"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bei der Interkuspidation greifen die Höcker von Ober- und Unterkiefer in maximaler Verzahnung ineinander.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF2-006",
+    "lernfeld": 2,
+    "thema": "Kaubewegungen",
+    "typ": "multiple",
+    "frage": "Welche Grundbewegungen führt das Kiefergelenk aus? (Mehrfachauswahl)",
+    "optionen": [
+      "Rotation (Scharnierbewegung)",
+      "Translation (Gleitbewegung)",
+      "Torsion",
+      "Kompression"
+    ],
+    "loesung": [
+      0,
+      1
+    ],
+    "erklaerung": "Das Kiefergelenk dreht (Rotation) und gleitet (Translation). Beides tritt bei Kaubewegungen kombiniert auf.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF2-007",
+    "lernfeld": 2,
+    "thema": "Kieferbewegungssimulatoren",
+    "typ": "kurz",
+    "frage": "Worin unterscheidet sich ein mittelwertiger von einem justierbaren Artikulator?",
+    "musterantwort": "Der mittelwertige Artikulator arbeitet mit festen Durchschnittswerten. Der justierbare Artikulator wird auf die individuellen Werte des Patienten eingestellt.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF2-008",
+    "lernfeld": 2,
+    "thema": "Arbeitsunterlagen",
+    "typ": "single",
+    "frage": "Wozu dient ein Bissregistrat?",
+    "optionen": [
+      "Zur Fixierung der Kieferrelation für die Modellmontage",
+      "Zur Herstellung des Löffels",
+      "Zur Farbbestimmung der Zähne",
+      "Zur Desinfektion der Abformung"
+    ],
+    "loesung": 0,
+    "erklaerung": "Das Registrat hält die Lagebeziehung von Ober- und Unterkiefer fest, damit die Modelle richtig im Artikulator stehen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF3-009",
+    "lernfeld": 3,
+    "thema": "Adjustierte Schienen",
+    "typ": "multiple",
+    "frage": "Wofür wird eine adjustierte Aufbissschiene eingesetzt? (Mehrfachauswahl)",
+    "optionen": [
+      "Entlastung von Kiefergelenk und Kaumuskulatur",
+      "Schutz der Zähne vor Abrasion",
+      "Ersatz fehlender Zähne",
+      "Ersatz einer zerstörten Zahnkrone"
+    ],
+    "loesung": [
+      0,
+      1
+    ],
+    "erklaerung": "Die Schiene wird bei Funktionsstörungen und Knirschen getragen. Sie ersetzt keine Zähne.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF3-010",
+    "lernfeld": 3,
+    "thema": "Werkstoffe",
+    "typ": "single",
+    "frage": "Welcher Bestandteil von Schienenkunststoff kann Allergien auslösen?",
+    "optionen": [
+      "Restmonomer",
+      "Gips",
+      "Alginat",
+      "Wasser"
+    ],
+    "loesung": 0,
+    "erklaerung": "Nicht auspolymerisiertes Monomer ist das wichtigste allergene Potenzial. Darum gehört sorgfältige Polymerisation zur Fertigung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF3-011",
+    "lernfeld": 3,
+    "thema": "Herstellungsverfahren",
+    "typ": "kurz",
+    "frage": "Nennen Sie je ein analoges und ein digitales Herstellungsverfahren für Schienen.",
+    "musterantwort": "Analog z. B. Tiefziehen oder Pressen. Digital z. B. Fräsen oder 3D-Druck nach CAD-Konstruktion.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF3-012",
+    "lernfeld": 3,
+    "thema": "Kaubewegungen",
+    "typ": "single",
+    "frage": "Was beschreibt die Bennett-Bewegung?",
+    "optionen": [
+      "Seitliche Verschiebung des Unterkiefers zur Arbeitsseite",
+      "Reine Öffnungsbewegung um die Scharnierachse",
+      "Vorschub des Unterkiefers nach vorn (Protrusion)",
+      "Rückverlagerung des Unterkiefers (Retrusion)"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bei Seitwärtsbewegungen verschiebt sich der Unterkiefer als Ganzes leicht zur Arbeitsseite. Das berücksichtigen justierbare Artikulatoren.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-013",
+    "lernfeld": 4,
+    "thema": "Temporäre Teilprothesen",
+    "typ": "single",
+    "frage": "Was kennzeichnet eine Kennedy-Klasse III?",
+    "optionen": [
+      "Einseitige Schaltlücke im Seitenzahnbereich mit Zähnen vor und hinter der Lücke",
+      "Beidseitige Freiendsituation",
+      "Einseitige Freiendsituation",
+      "Schaltlücke im Frontzahnbereich über die Mittellinie hinweg"
+    ],
+    "loesung": 0,
+    "erklaerung": "Klasse I ist beidseitig frei endend, Klasse II einseitig frei endend, Klasse III eine seitliche Schaltlücke, Klasse IV eine Frontlücke über die Mittellinie.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-014",
+    "lernfeld": 4,
+    "thema": "Temporäre Teilprothesen",
+    "typ": "kurz",
+    "frage": "Worin unterscheiden sich Interims- und Immediatprothese?",
+    "musterantwort": "Die Interimsprothese ist eine Übergangslösung für die Zeit bis zur endgültigen Versorgung. Die Immediatprothese wird vorab gefertigt und direkt nach der Extraktion eingegliedert.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-015",
+    "lernfeld": 4,
+    "thema": "Halteelemente",
+    "typ": "single",
+    "frage": "Welche Aufgabe hat eine Auflage an einer Klammer?",
+    "optionen": [
+      "Abstützung der Prothese gegen die Kaukräfte",
+      "Verbindung von Prothesenbasis und Zähnen",
+      "Verbesserung der Ästhetik",
+      "Aufnahme der Abformung"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Auflage liegt auf dem Zahn auf und leitet die Kaukräfte ab, damit die Prothese nicht einsinkt.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-016",
+    "lernfeld": 4,
+    "thema": "Temporäre Teilprothesen",
+    "typ": "reihenfolge",
+    "frage": "Bringen Sie die Arbeitsschritte einer Teilprothese in die richtige Reihenfolge (vereinfachte Darstellung).",
+    "reihenfolge_korrekt": [
+      "Modell vermessen und Konstruktion planen",
+      "Halteelemente biegen",
+      "Zähne aufstellen",
+      "Kunststoff verarbeiten",
+      "Ausarbeiten und polieren"
+    ],
+    "erklaerung": "Erst planen, dann Halteelemente und Zähne, danach der Kunststoff und zuletzt die Oberflächenbearbeitung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-017",
+    "lernfeld": 5,
+    "thema": "Einzelkronen",
+    "typ": "single",
+    "frage": "Welche Zahnsubstanz ist die härteste?",
+    "optionen": [
+      "Schmelz",
+      "Dentin",
+      "Zement",
+      "Pulpa"
+    ],
+    "loesung": 0,
+    "erklaerung": "Schmelz ist die härteste Substanz des menschlichen Körpers. Darunter liegt das weichere Dentin.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-018",
+    "lernfeld": 5,
+    "thema": "Einzelkronen",
+    "typ": "multiple",
+    "frage": "Welche Formen der Präparationsgrenze gibt es? (Mehrfachauswahl)",
+    "optionen": [
+      "Hohlkehle",
+      "Stufe mit abgerundeter Innenkante",
+      "Tangentialpräparation",
+      "Zahnfleischtasche"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Hohlkehle, Stufe und Tangentialpräparation sind Grenzformen. Die Zahnfleischtasche ist eine anatomische Struktur.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-019",
+    "lernfeld": 5,
+    "thema": "Einzelkronen",
+    "typ": "kurz",
+    "frage": "Welche Aufgabe hat der Approximalkontakt?",
+    "musterantwort": "Er stabilisiert die Zahnreihe und schützt die Zahnzwischenräume vor eindringenden Speiseresten.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-020",
+    "lernfeld": 5,
+    "thema": "Einzelkronen",
+    "typ": "single",
+    "frage": "Wie heißt die Kaufläche eines Seitenzahns?",
+    "optionen": [
+      "Okklusalfläche",
+      "Approximalfläche",
+      "Vestibulärfläche",
+      "Zervikalfläche"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Okklusalfläche ist die Kaufläche. Approximalflächen zeigen zum Nachbarzahn.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-101",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Lagerungsarten",
+    "frage": "Wie nennt man eine Prothese, die sich ausschließlich auf den Restzähnen abstützt?",
+    "optionen": [
+      "Zahngetragen",
+      "Schleimhautgetragen",
+      "Zahn-schleimhautgetragen",
+      "Implantatgetragen"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bei zahngetragener Lagerung nehmen die Pfeilerzähne die Kaukräfte auf. Schleimhautgetragene Prothesen liegen auf der Schleimhaut auf.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-102",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Klassifikation Lückengebiss",
+    "frage": "Was kennzeichnet eine Kennedy-Klasse I?",
+    "optionen": [
+      "Beidseitig verkürzte Zahnreihe (Freiendsituation)",
+      "Einseitig verkürzte Zahnreihe",
+      "Einseitige Schaltlücke",
+      "Frontzahnlücke über die Mittellinie"
+    ],
+    "loesung": 0,
+    "erklaerung": "Klasse I hat auf beiden Seiten keine Pfeilerzähne hinter der Lücke. Klasse II ist die einseitige Freiendsituation.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-103",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Lagerungsarten",
+    "frage": "Welche Lagerungsart haben Prothesen bei einer Kennedy-Klasse I meist?",
+    "optionen": [
+      "Zahn-schleimhautgetragen",
+      "Rein zahngetragen",
+      "Rein implantatgetragen",
+      "Rein kleberetiniert"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bei Freiendlücken fehlt hinten der Zahnhalt. Die Prothese stützt sich vorn auf Zähnen und hinten auf der Schleimhaut ab.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-104",
+    "lernfeld": 4,
+    "typ": "kurz",
+    "thema": "Interims- und Immediatprothesen",
+    "frage": "Nennen Sie zwei Aufgaben einer Interimsprothese.",
+    "musterantwort": "z. B. Lücken ästhetisch schließen, Kaufunktion und Sprache vorübergehend sichern, Platzhalter für die endgültige Versorgung, Gewöhnung des Patienten an Zahnersatz.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-105",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Vermessung",
+    "frage": "Wozu wird ein Modell mit dem Parallelometer (Modellvermessgerät) vermessen?",
+    "optionen": [
+      "Zur Bestimmung von Einschubrichtung und Unterschnitten",
+      "Zur Bestimmung der Zahnfarbe",
+      "Zur Einstellung des Artikulators",
+      "Zur Messung der Abbindezeit des Gipses"
+    ],
+    "loesung": 0,
+    "erklaerung": "Am vermessenen Modell legt man die Einschubrichtung fest und erkennt Unterschnitte für Halteelemente.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-106",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Halte- und Stützelemente",
+    "frage": "Wo liegt die Spitze des federnden Klammerarms im Normalfall?",
+    "optionen": [
+      "Unterhalb des Zahnäquators im Unterschnitt",
+      "Oberhalb des Zahnäquators",
+      "Auf der Kaufläche",
+      "Am Zahnfleischrand mit festem Druck"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Klammerspitze liegt im Retentionsbereich unter dem Zahnäquator und hält die Prothese. Die Schulter liegt oberhalb.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-107",
+    "lernfeld": 4,
+    "typ": "multiple",
+    "thema": "Bestandteile",
+    "frage": "Welche Bestandteile hat eine Teilprothese mit Kunststoffbasis? (Mehrfachauswahl)",
+    "optionen": [
+      "Prothesenbasis",
+      "Halteelemente",
+      "Prothesenzähne",
+      "Implantat-Abutment"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Basis, Halteelemente und Zähne bilden die Prothese. Ein Abutment gehört zur Implantatversorgung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-108",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Werkstoffe",
+    "frage": "Woraus besteht die Prothesenbasis üblicherweise?",
+    "optionen": [
+      "Polymethylmethacrylat (PMMA)",
+      "Zirkonoxid",
+      "Dentalgips",
+      "Silikon-Abformmasse"
+    ],
+    "loesung": 0,
+    "erklaerung": "PMMA ist der klassische Prothesenkunststoff.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-109",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Werkstoffe",
+    "frage": "Was gilt für Heißpolymerisate im Vergleich zu Kaltpolymerisaten?",
+    "optionen": [
+      "Aushärtung unter Wärme, in der Regel weniger Restmonomer",
+      "Aushärtung ohne Wärme, deutlich mehr Restmonomer",
+      "Nur für Drahtklammern geeignet",
+      "Nur digital herstellbar"
+    ],
+    "loesung": 0,
+    "erklaerung": "Durch die Wärme polymerisiert Heißpolymerisat meist vollständiger aus.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-110",
+    "lernfeld": 4,
+    "typ": "kurz",
+    "thema": "Halte- und Stützelemente",
+    "frage": "Nennen Sie je eine Aufgabe von Halteelement und Stützelement.",
+    "musterantwort": "Halteelement: verhindert das Abziehen der Prothese (Retention). Stützelement (z. B. Auflage): leitet Kaukräfte auf den Zahn ab und verhindert das Einsinken.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-111",
+    "lernfeld": 4,
+    "typ": "reihenfolge",
+    "thema": "Herstellung Kunststoffbasis",
+    "frage": "Bringen Sie die Schritte zur Herstellung der Kunststoffbasis im Küvettenverfahren in die richtige Reihenfolge (vereinfacht).",
+    "reihenfolge_korrekt": [
+      "Zahnaufstellung in der Küvette einbetten",
+      "Wachs ausbrühen",
+      "Gipsflächen isolieren",
+      "Kunststoff einbringen und pressen",
+      "Polymerisieren",
+      "Ausbetten"
+    ],
+    "erklaerung": "Erst einbetten, dann Wachs entfernen und isolieren. Danach wird der Kunststoff eingebracht, polymerisiert und ausgebettet.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-112",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Hygiene",
+    "frage": "Was geschieht zuerst, wenn eine Prothese vom Patienten zur Instandsetzung ins Labor kommt?",
+    "optionen": [
+      "Desinfektion nach Hygieneplan",
+      "Sofortiges Beschleifen",
+      "Sofortiges Auftragen von Kunststoff",
+      "Anpolieren ohne weitere Maßnahmen"
+    ],
+    "loesung": 0,
+    "erklaerung": "Zurückgegebener Zahnersatz wird vor jeder Bearbeitung nach Hygieneplan desinfiziert, um Mitarbeitende zu schützen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-113",
+    "lernfeld": 4,
+    "typ": "kurz",
+    "thema": "Fehleranalyse",
+    "frage": "Eine fertige Teilprothese wackelt auf dem Arbeitsmodell. Nennen Sie zwei mögliche Ursachen.",
+    "musterantwort": "z. B. Verzug durch Polymerisationsschrumpfung, Fehler beim Einbetten oder Isolieren, verbogene Halteelemente, Gipsreste oder Fehler am Modell.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-114",
+    "lernfeld": 4,
+    "typ": "single",
+    "thema": "Zahnhalteapparat",
+    "frage": "Wie heißt der Zahnhalteapparat?",
+    "optionen": [
+      "Parodont",
+      "Pulpa",
+      "Dentin",
+      "Zahnschmelz"
+    ],
+    "loesung": 0,
+    "erklaerung": "Zum Parodont gehören Zahnfleisch, Wurzelhaut, Wurzelzement und Alveolarknochen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF4-115",
+    "lernfeld": 4,
+    "typ": "multiple",
+    "thema": "Qualitätsprüfung",
+    "frage": "Welche Merkmale prüft man bei der Qualitätskontrolle einer Teilprothese? (Mehrfachauswahl)",
+    "optionen": [
+      "Oberfläche (glatt, poliert)",
+      "Sitz und Verankerung",
+      "Kaufunktion und Okklusion",
+      "Ästhetik"
+    ],
+    "loesung": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "erklaerung": "Laut Lernfeld 4 werden Oberfläche, Verankerung, Kaufunktion und Ästhetik geprüft.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 4",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-101",
+    "lernfeld": 5,
+    "thema": "Zahnaufbau",
+    "typ": "single",
+    "frage": "Welche Zahnsubstanz bildet die Hauptmasse des Zahnes?",
+    "optionen": [
+      "Dentin",
+      "Schmelz",
+      "Zement",
+      "Pulpa"
+    ],
+    "loesung": 0,
+    "erklaerung": "Dentin liegt unter dem Schmelz und bildet den Großteil von Krone und Wurzel.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-102",
+    "lernfeld": 5,
+    "thema": "Zahnaufbau",
+    "typ": "single",
+    "frage": "Wie heißt der Übergangsbereich zwischen Zahnkrone und Zahnwurzel?",
+    "optionen": [
+      "Zahnhals (Zervikalbereich)",
+      "Wurzelspitze",
+      "Höckerspitze",
+      "Fissur"
+    ],
+    "loesung": 0,
+    "erklaerung": "Am Zahnhals endet der Schmelz, hier liegt auch häufig die Präparationsgrenze.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-103",
+    "lernfeld": 5,
+    "thema": "Zahnmerkmale",
+    "typ": "multiple",
+    "frage": "Welche klassischen Zahnmerkmale gibt es? (Mehrfachauswahl)",
+    "optionen": [
+      "Winkelmerkmal",
+      "Krümmungsmerkmal",
+      "Wurzelmerkmal",
+      "Höckermerkmal"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Mit Winkel-, Krümmungs- und Wurzelmerkmal lassen sich rechte und linke Zähne unterscheiden.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-104",
+    "lernfeld": 5,
+    "thema": "Okklusion",
+    "typ": "single",
+    "frage": "Was versteht man unter statischer Okklusion?",
+    "optionen": [
+      "Zahnkontakte bei geschlossenem Mund ohne Unterkieferbewegung",
+      "Zahnkontakte während Kaubewegungen",
+      "Zahnkontakte beim Öffnen des Mundes",
+      "Fehlender Zahnkontakt in Ruhelage"
+    ],
+    "loesung": 0,
+    "erklaerung": "Statisch ist der Schlussbiss. Bei der dynamischen Okklusion gleiten die Zähne bei Bewegungen aufeinander.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-105",
+    "lernfeld": 5,
+    "thema": "Präparation",
+    "typ": "single",
+    "frage": "Welche Präparationsform führt zu einem dünn auslaufenden Kronenrand?",
+    "optionen": [
+      "Tangentialpräparation",
+      "Hohlkehle",
+      "Stufe mit abgerundeter Innenkante",
+      "Rillenpräparation"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bei der Tangentialpräparation läuft die Krone dünn aus.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-106",
+    "lernfeld": 5,
+    "thema": "Zahnsubstanzverlust",
+    "typ": "kurz",
+    "frage": "Nennen Sie zwei Ursachen für Zahnsubstanzverlust.",
+    "musterantwort": "z. B. Karies, Abrasion oder Attrition (Abnutzung, Knirschen), Erosion (Säuren), Unfall.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-107",
+    "lernfeld": 5,
+    "thema": "Kronenrand",
+    "typ": "single",
+    "frage": "Warum ist ein gut angepasster Kronenrand für die Mundgesundheit wichtig?",
+    "optionen": [
+      "Spalte und Überstände begünstigen Plaque, Karies und Zahnfleischentzündung",
+      "Er bestimmt die Zahnfarbe",
+      "Er verbessert die Kaufunktion der Gegenzähne",
+      "Er verhindert die Abbindeexpansion"
+    ],
+    "loesung": 0,
+    "erklaerung": "Offene oder überstehende Ränder sind Plaquefallen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-108",
+    "lernfeld": 5,
+    "thema": "Gebissschema",
+    "typ": "single",
+    "frage": "Wie lautet die FDI-Bezeichnung für den unteren linken ersten Prämolaren?",
+    "optionen": [
+      "34",
+      "14",
+      "44",
+      "35"
+    ],
+    "loesung": 0,
+    "erklaerung": "3 = Quadrant unten links, 4 = erster Prämolar.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-109",
+    "lernfeld": 5,
+    "thema": "Erfassung der Situation",
+    "typ": "multiple",
+    "frage": "Welche Verfahren dienen der Erfassung der Ausgangssituation für eine Krone? (Mehrfachauswahl)",
+    "optionen": [
+      "Intraoralscan",
+      "Abformung mit anschließender Modellherstellung",
+      "Modellscan",
+      "Pulpentest (Vitalitätsprobe)"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Scan oder Abformung liefern die Daten. Der Pulpentest ist eine zahnärztliche Untersuchung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-110",
+    "lernfeld": 5,
+    "thema": "Bewertung",
+    "typ": "kurz",
+    "frage": "Nennen Sie drei Kriterien, nach denen eine fertige Krone bewertet wird.",
+    "musterantwort": "Oberfläche, Randschluss, Stellung im Zahnbogen (Kontakte), Funktion (Okklusion).",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-111",
+    "lernfeld": 5,
+    "thema": "Bewertung",
+    "typ": "single",
+    "frage": "Was bedeutet Randschluss bei einer Krone?",
+    "optionen": [
+      "Die Krone schließt spaltfrei an der Präparationsgrenze ab",
+      "Die Krone ist so hoch wie die Nachbarzähne",
+      "Die Krone berührt den Gegenzahn",
+      "Die Krone hat dieselbe Farbe wie die Nachbarzähne"
+    ],
+    "loesung": 0,
+    "erklaerung": "Ein dichter Randschluss verhindert Spalten, in denen sich Bakterien ansammeln.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-112",
+    "lernfeld": 5,
+    "thema": "Pflegbarkeit",
+    "typ": "single",
+    "frage": "Warum muss eine Krone pflegbar gestaltet sein?",
+    "optionen": [
+      "Damit Plaque entfernt werden kann und das Restgebiss nicht geschädigt wird",
+      "Damit sie leichter einzugliedern ist",
+      "Damit sie weniger Material braucht",
+      "Damit die Zahnfarbe besser passt"
+    ],
+    "loesung": 0,
+    "erklaerung": "Eine pflegbare Form schützt Zahnfleisch und Nachbarzähne.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-113",
+    "lernfeld": 5,
+    "thema": "Modellation",
+    "typ": "reihenfolge",
+    "frage": "Bringen Sie die Schritte der analogen Kronenmodellation in die richtige Reihenfolge (vereinfacht).",
+    "reihenfolge_korrekt": [
+      "Stumpf isolieren",
+      "Kronenrand wachsen",
+      "Kronenform und Höcker aufwachsen",
+      "Approximalkontakte gestalten",
+      "Okklusion im Artikulator kontrollieren"
+    ],
+    "erklaerung": "Erst Rand und Grundform, dann Kontakte, am Ende die Kontrolle der Okklusion.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-114",
+    "lernfeld": 5,
+    "thema": "Hilfswerkstoffe",
+    "typ": "single",
+    "frage": "Warum kann eine Wachsmodellation ungenau werden, wenn sie warm oder zu lange liegt?",
+    "optionen": [
+      "Wachs ist nicht formstabil und verzieht sich",
+      "Wachs verändert seine Farbe",
+      "Wachs wird härter als Metall",
+      "Wachs bindet Wasser aus der Luft"
+    ],
+    "loesung": 0,
+    "erklaerung": "Wachs verzieht sich durch Wärme und Spannungen. Darum wird es zügig weiterverarbeitet.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF5-115",
+    "lernfeld": 5,
+    "thema": "Werkstoffwahl",
+    "typ": "single",
+    "frage": "Warum müssen Präparationsgrenze und Kronenwerkstoff aufeinander abgestimmt sein?",
+    "optionen": [
+      "Der Werkstoff braucht eine bestimmte Schichtstärke und Randgestaltung",
+      "Damit die Krone leichter wird",
+      "Damit die Abformung schneller abbindet",
+      "Damit der Gegenzahn weniger Kontakt hat"
+    ],
+    "loesung": 0,
+    "erklaerung": "Je nach Werkstoff sind Mindestschichtstärke und Randform vorgegeben. Passt die Präparation nicht, muss man mit dem Zahnarzt Rücksprache halten.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 5",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-21"
+  },
+  {
+    "id": "LF1-101",
+    "lernfeld": 1,
+    "thema": "Richtungsbezeichnungen",
+    "typ": "single",
+    "frage": "Was bedeutet die Richtungsbezeichnung „mesial“?",
+    "optionen": [
+      "Zur Mitte des Zahnbogens hin",
+      "Von der Mitte des Zahnbogens weg",
+      "Zur Zunge hin",
+      "Zur Wange hin"
+    ],
+    "loesung": 0,
+    "erklaerung": "Mesial zeigt zur Mittellinie des Zahnbogens, distal von ihr weg.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-102",
+    "lernfeld": 1,
+    "thema": "Richtungsbezeichnungen",
+    "typ": "single",
+    "frage": "Was bedeutet die Richtungsbezeichnung „distal“?",
+    "optionen": [
+      "Von der Mitte des Zahnbogens weg",
+      "Zur Mitte des Zahnbogens hin",
+      "Zur Kaufläche hin",
+      "Zur Lippe hin"
+    ],
+    "loesung": 0,
+    "erklaerung": "Distal ist das Gegenteil von mesial.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-103",
+    "lernfeld": 1,
+    "thema": "Gebissschemata",
+    "typ": "single",
+    "frage": "Wie viele Zähne hat das vollständige Milchgebiss?",
+    "optionen": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "loesung": 0,
+    "erklaerung": "Das Milchgebiss hat 20 Zähne. Das bleibende Gebiss hat bis zu 32.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-104",
+    "lernfeld": 1,
+    "thema": "Gebissschemata",
+    "typ": "single",
+    "frage": "Wie viele Zähne hat ein vollständiges bleibendes Gebiss mit Weisheitszähnen?",
+    "optionen": [
+      "32",
+      "28",
+      "30",
+      "36"
+    ],
+    "loesung": 0,
+    "erklaerung": "Vier Quadranten mit je acht Zähnen ergeben 32 Zähne.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-105",
+    "lernfeld": 1,
+    "thema": "Gebissschemata",
+    "typ": "single",
+    "frage": "Welche Ziffer steht im FDI-Schema für den Quadranten oben links?",
+    "optionen": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "loesung": 0,
+    "erklaerung": "1 = oben rechts, 2 = oben links, 3 = unten links, 4 = unten rechts.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-106",
+    "lernfeld": 1,
+    "thema": "Abformung digital",
+    "typ": "multiple",
+    "frage": "Welche Verfahren gehören zur digitalen Erfassung? (Mehrfachauswahl)",
+    "optionen": [
+      "Intraoralscan",
+      "Scan eines Modells im Laborscanner",
+      "Abformung mit Alginat",
+      "Abformung mit Silikon"
+    ],
+    "loesung": [
+      0,
+      1
+    ],
+    "erklaerung": "Alginat und Silikon sind analoge Abformungen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-107",
+    "lernfeld": 1,
+    "thema": "Abformqualität",
+    "typ": "multiple",
+    "frage": "Welche Mängel machen eine Abformung unbrauchbar? (Mehrfachauswahl)",
+    "optionen": [
+      "Blasen und Risse im Zahnbereich",
+      "Ablösung vom Löffel",
+      "Fehlende Details am Präparationsrand",
+      "Rosa Einfärbung des Löffels"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Die Abformung muss alle Details sauber und fest im Löffel zeigen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-108",
+    "lernfeld": 1,
+    "thema": "Modellwerkstoffe",
+    "typ": "single",
+    "frage": "Wovon hängt die Härte eines abgebundenen Gipsmodells wesentlich ab?",
+    "optionen": [
+      "Vom Mischungsverhältnis von Wasser und Pulver",
+      "Von der Farbe des Gipses",
+      "Von der Raumbeleuchtung",
+      "Von der Größe des Modells"
+    ],
+    "loesung": 0,
+    "erklaerung": "Zu viel Wasser macht das Modell weicher und poröser.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-109",
+    "lernfeld": 1,
+    "thema": "Löffelherstellung",
+    "typ": "single",
+    "frage": "Wozu dient ein individueller Löffel?",
+    "optionen": [
+      "Zur genauen Abformung mit gleichmäßig dünner Abformmaterialschicht",
+      "Zur Bestimmung der Zahnfarbe",
+      "Zur Montage im Artikulator",
+      "Zur Herstellung der Zahnreihe"
+    ],
+    "loesung": 0,
+    "erklaerung": "Der individuelle Löffel wird dem Kiefer des Patienten angepasst.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-110",
+    "lernfeld": 1,
+    "thema": "Datenschutz",
+    "typ": "kurz",
+    "frage": "Nennen Sie zwei Maßnahmen zum Datenschutz im Labor.",
+    "musterantwort": "z. B. Aufträge und Unterlagen nicht offen liegen lassen, Zugriff nur für Befugte, Passwortschutz, verschlüsselte Datenübertragung, Daten nach Frist löschen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-111",
+    "lernfeld": 1,
+    "thema": "Arbeitssicherheit",
+    "typ": "kurz",
+    "frage": "Wie verhalten Sie sich bei einem Brand im Labor?",
+    "musterantwort": "Ruhe bewahren, Alarm auslösen und Notruf 112 wählen, Personen in Sicherheit bringen, nur wenn gefahrlos Löschversuch unternehmen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-112",
+    "lernfeld": 1,
+    "thema": "Entsorgung",
+    "typ": "single",
+    "frage": "Wie wird Gipsabfall im Labor richtig behandelt?",
+    "optionen": [
+      "Nicht in den Abfluss, sondern über Gipsabscheider oder Restmüll",
+      "In den Ausguss spülen",
+      "Verbrennen",
+      "In die Biotonne"
+    ],
+    "loesung": 0,
+    "erklaerung": "Gips setzt Rohre zu und darf nicht in den Abfluss.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-113",
+    "lernfeld": 1,
+    "thema": "Wirtschaftlichkeit",
+    "typ": "single",
+    "frage": "Wie vermeidet man Materialverschwendung beim Anmischen von Gips?",
+    "optionen": [
+      "Nur die benötigte Menge anmischen",
+      "Immer die doppelte Menge anmischen",
+      "Gips im Voraus mischen",
+      "Mehr Wasser verwenden"
+    ],
+    "loesung": 0,
+    "erklaerung": "Passende Mengen sparen Material und Entsorgung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-114",
+    "lernfeld": 1,
+    "thema": "Kundenauftrag",
+    "typ": "kurz",
+    "frage": "Nennen Sie drei Angaben, die auf einem Auftragszettel stehen sollten.",
+    "musterantwort": "z. B. Patientenname oder ID, Praxis, Art der Arbeit, Zahnschema mit betroffenen Zähnen, Farbe, Liefertermin.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF1-115",
+    "lernfeld": 1,
+    "thema": "Ergonomie",
+    "typ": "single",
+    "frage": "Welche Haltung ist am Laborarbeitsplatz ergonomisch?",
+    "optionen": [
+      "Aufrechtes Sitzen mit abgestützten Unterarmen",
+      "Tief über das Werkstück gebeugt",
+      "Dauerhaft im Stehen mit Rundrücken",
+      "Schultern hochgezogen"
+    ],
+    "loesung": 0,
+    "erklaerung": "Aufrechte Haltung entlastet Rücken und Nacken.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 1",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-101",
+    "lernfeld": 2,
+    "thema": "Kiefergelenk",
+    "typ": "single",
+    "frage": "Welche Teile bilden das Kiefergelenk?",
+    "optionen": [
+      "Unterkieferköpfchen und Gelenkgrube des Schläfenbeins",
+      "Zwei Unterkieferköpfchen",
+      "Oberkiefer und Nasenbein",
+      "Zungenbein und Unterkiefer"
+    ],
+    "loesung": 0,
+    "erklaerung": "Der Gelenkkopf des Unterkiefers bewegt sich in der Gelenkgrube des Schläfenbeins.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-102",
+    "lernfeld": 2,
+    "thema": "Kiefergelenk",
+    "typ": "single",
+    "frage": "Welche Struktur liegt zwischen Gelenkkopf und Gelenkgrube?",
+    "optionen": [
+      "Gelenkscheibe (Discus articularis)",
+      "Zahnschmelz",
+      "Wurzelhaut",
+      "Zungenband"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Gelenkscheibe verteilt Druck und gleicht Formunterschiede aus.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-103",
+    "lernfeld": 2,
+    "thema": "Eugnathie",
+    "typ": "single",
+    "frage": "Was versteht man unter Eugnathie?",
+    "optionen": [
+      "Regelrechte Kiefer- und Gebissverhältnisse",
+      "Zahnlosigkeit",
+      "Kreuzbiss",
+      "Engstand der Frontzähne"
+    ],
+    "loesung": 0,
+    "erklaerung": "Eugnathie bezeichnet normale Kiefer- und Zahnstellung mit funktioneller Verzahnung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-104",
+    "lernfeld": 2,
+    "thema": "Kieferrelation",
+    "typ": "single",
+    "frage": "Was beschreibt die vertikale Kieferrelation?",
+    "optionen": [
+      "Den Abstand zwischen Ober- und Unterkiefer (Bisshöhe)",
+      "Die Verschiebung des Unterkiefers nach vorn",
+      "Die Zahnfarbe",
+      "Die Breite des Zahnbogens"
+    ],
+    "loesung": 0,
+    "erklaerung": "Vertikal meint die Höhe, horizontal die Lage in Vor-, Rück- und Seitrichtung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-105",
+    "lernfeld": 2,
+    "thema": "Schädelbezugsebenen",
+    "typ": "single",
+    "frage": "Wie ist die Frankfurter Horizontale definiert?",
+    "optionen": [
+      "Ebene durch Gehörgangsoberrand und Unterrand der Augenhöhle",
+      "Ebene durch beide Mundwinkel",
+      "Ebene durch Nasenspitze und Kinn",
+      "Ebene durch die Schneidezähne"
+    ],
+    "loesung": 0,
+    "erklaerung": "Sie dient als Bezugsebene am Schädel.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-106",
+    "lernfeld": 2,
+    "thema": "Registrate",
+    "typ": "single",
+    "frage": "Welcher Werkstoff wird typischerweise für Bissregistrate verwendet?",
+    "optionen": [
+      "Silikon-Registriermasse",
+      "Zirkonoxid",
+      "Dentalkeramik",
+      "Edelmetall"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bisswachs und Silikon sind übliche Registriermaterialien.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-107",
+    "lernfeld": 2,
+    "thema": "Kieferbewegungen",
+    "typ": "single",
+    "frage": "Wie heißt die Vorschubbewegung des Unterkiefers nach vorn?",
+    "optionen": [
+      "Protrusion",
+      "Retrusion",
+      "Laterotrusion",
+      "Mediotrusion"
+    ],
+    "loesung": 0,
+    "erklaerung": "Retrusion ist die Rückwärtsbewegung, Laterotrusion die seitliche.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-108",
+    "lernfeld": 2,
+    "thema": "Kieferbewegungen",
+    "typ": "single",
+    "frage": "Wie nennt man die Seite, zu der der Unterkiefer bei einer Seitwärtsbewegung geführt wird?",
+    "optionen": [
+      "Arbeitsseite",
+      "Balanceseite",
+      "Ruheseite",
+      "Mittellinie"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die gegenüberliegende Seite ist die Balanceseite.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-109",
+    "lernfeld": 2,
+    "thema": "Simulation",
+    "typ": "kurz",
+    "frage": "Nennen Sie eine Grenze der mittelwertigen Simulation von Kieferbewegungen.",
+    "musterantwort": "Individuelle Gelenkbahnen weichen vom Durchschnitt ab, bei komplexen Rekonstruktionen oder CMD kann die Simulation ungenau sein.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-110",
+    "lernfeld": 2,
+    "thema": "Digitale Simulatoren",
+    "typ": "single",
+    "frage": "Welchen Vorteil hat ein digitaler Bewegungssimulator (virtueller Artikulator)?",
+    "optionen": [
+      "Bewegungen lassen sich am Bildschirm simulieren und Kontakte sichtbar machen",
+      "Er benötigt keine Daten",
+      "Er ersetzt den Zahnarzt",
+      "Er macht Registrate überflüssig"
+    ],
+    "loesung": 0,
+    "erklaerung": "Digitale Simulation zeigt Kontakte und lässt sich speichern und wiederholen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-111",
+    "lernfeld": 2,
+    "thema": "Registrate",
+    "typ": "single",
+    "frage": "Warum muss ein Registrat vor der Modellmontage sauber und unverzogen sein?",
+    "optionen": [
+      "Sonst ergibt sich eine falsche Kieferrelation",
+      "Damit es besser riecht",
+      "Damit es leichter wird",
+      "Damit die Zahnfarbe stimmt"
+    ],
+    "loesung": 0,
+    "erklaerung": "Fehler im Registrat übertragen sich in die gesamte Montage.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-112",
+    "lernfeld": 2,
+    "thema": "Kaumuskulatur",
+    "typ": "multiple",
+    "frage": "Welche Muskeln gehören zu den Kaumuskeln? (Mehrfachauswahl)",
+    "optionen": [
+      "Musculus masseter",
+      "Musculus temporalis",
+      "Musculus pterygoideus medialis",
+      "Musculus trapezius"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Der Trapezmuskel gehört zum Schulter-Nacken-Bereich.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-113",
+    "lernfeld": 2,
+    "thema": "Okklusion",
+    "typ": "single",
+    "frage": "Wie heißt die gedachte Ebene, in der sich die Kauflächen von Ober- und Unterkiefer berühren?",
+    "optionen": [
+      "Okklusionsebene",
+      "Frankfurter Horizontale",
+      "Mittellinie",
+      "Gelenkebene"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Okklusionsebene liegt zwischen den Zahnreihen.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-114",
+    "lernfeld": 2,
+    "thema": "Okklusion",
+    "typ": "single",
+    "frage": "Was versteht man unter Okklusion?",
+    "optionen": [
+      "Jeden Zahnkontakt zwischen Ober- und Unterkiefer",
+      "Nur den Schlussbiss",
+      "Das Öffnen des Mundes",
+      "Die Mundhöhle"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Interkuspidation ist ein Sonderfall der Okklusion, die maximale Verzahnung.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF2-115",
+    "lernfeld": 2,
+    "thema": "Modellmontage",
+    "typ": "reihenfolge",
+    "frage": "Bringen Sie die Schritte der Modellmontage im Artikulator in die richtige Reihenfolge (vereinfacht).",
+    "reihenfolge_korrekt": [
+      "Registrat reinigen und prüfen",
+      "Oberkiefermodell am Artikulator montieren",
+      "Unterkiefermodell mit Registrat zuordnen",
+      "Unterkiefermodell befestigen",
+      "Montage kontrollieren"
+    ],
+    "erklaerung": "Erst das Registrat prüfen, dann Oberkiefer, Unterkiefer und zuletzt die Kontrolle.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 2",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-101",
+    "lernfeld": 3,
+    "thema": "Craniomandibuläre Dysfunktion",
+    "typ": "single",
+    "frage": "Wofür steht die Abkürzung CMD?",
+    "optionen": [
+      "Craniomandibuläre Dysfunktion",
+      "Computergestützte Modelldaten",
+      "Zentrale Mundhöhlen-Diagnose",
+      "Kieferorthopädische Messdaten"
+    ],
+    "loesung": 0,
+    "erklaerung": "CMD ist ein Sammelbegriff für Funktionsstörungen von Kiefergelenk, Kaumuskulatur und Zahnkontakten.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-102",
+    "lernfeld": 3,
+    "thema": "Craniomandibuläre Dysfunktion",
+    "typ": "multiple",
+    "frage": "Welche Strukturen sind bei einer CMD betroffen? (Mehrfachauswahl)",
+    "optionen": [
+      "Kiefergelenk",
+      "Kaumuskulatur",
+      "Okklusion (Zahnkontakte)",
+      "Schilddrüse"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Bei CMD stehen Kiefergelenk, Muskulatur und Zahnkontakte im Zusammenspiel.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-103",
+    "lernfeld": 3,
+    "thema": "Bruxismus",
+    "typ": "single",
+    "frage": "Was versteht man unter Bruxismus?",
+    "optionen": [
+      "Zähneknirschen oder Zähnepressen",
+      "Zahnfleischentzündung",
+      "Fehlende Zähne im Seitenzahnbereich",
+      "Allergie gegen Kunststoff"
+    ],
+    "loesung": 0,
+    "erklaerung": "Bruxismus belastet Zähne, Muskeln und Gelenke. Aufbissschienen schützen die Zähne und entlasten die Muskulatur.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-104",
+    "lernfeld": 3,
+    "thema": "Kieferrelation",
+    "typ": "single",
+    "frage": "Was beschreibt die Ruheschwebelage des Unterkiefers?",
+    "optionen": [
+      "Der Unterkiefer ruht bei entspannter Muskulatur, die Zähne berühren sich nicht",
+      "Die Zähne sind fest aufeinandergebissen",
+      "Der Mund ist maximal geöffnet",
+      "Der Unterkiefer ist nach vorn geschoben"
+    ],
+    "loesung": 0,
+    "erklaerung": "In Ruheschwebelage ist der Mund leicht geöffnet und die Muskulatur entspannt.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-105",
+    "lernfeld": 3,
+    "thema": "Kieferrelation",
+    "typ": "single",
+    "frage": "Was beschreibt die zentrische Kieferrelation?",
+    "optionen": [
+      "Lage des Unterkiefers zum Oberkiefer bei zentrierten Kiefergelenkköpfen, unabhängig vom Zahnkontakt",
+      "Die Lage bei maximaler Verzahnung",
+      "Die Lage bei maximaler Mundöffnung",
+      "Die Lage beim Seitwärtsbewegen"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die zentrische Relation ist eine gelenkbezogene Referenzposition, die unabhängig von den Zähnen definiert wird.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-106",
+    "lernfeld": 3,
+    "thema": "Modellmontage",
+    "typ": "single",
+    "frage": "Wofür dient ein Gesichtsbogen?",
+    "optionen": [
+      "Zur Übertragung der Lage des Oberkiefers zur Schädelbasis in den Artikulator",
+      "Zur Messung der Zahnfarbe",
+      "Zur Herstellung der Abformung",
+      "Zur Messung der Mundöffnung in Millimetern"
+    ],
+    "loesung": 0,
+    "erklaerung": "Mit dem Gesichtsbogen werden die Modelle schädelbezüglich im Artikulator montiert.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-107",
+    "lernfeld": 3,
+    "thema": "Artikulatoren",
+    "typ": "single",
+    "frage": "Was lässt sich an einem justierbaren Artikulator typischerweise einstellen?",
+    "optionen": [
+      "Kondylenbahnneigung und Bennettwinkel",
+      "Zahnfarbe",
+      "Abbindezeit des Gipses",
+      "Dicke der Prothesenbasis"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Einstellwerte bilden die individuelle Gelenkbewegung des Patienten nach.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-108",
+    "lernfeld": 3,
+    "thema": "Okklusionskonzepte",
+    "typ": "single",
+    "frage": "Was kennzeichnet die Front-Eckzahn-Führung?",
+    "optionen": [
+      "Bei Unterkieferbewegungen führen Front- und Eckzähne, die Seitenzähne verlieren den Kontakt",
+      "Alle Zähne berühren sich gleichzeitig bei jeder Bewegung",
+      "Nur die Molaren führen die Bewegung",
+      "Es gibt keine Zahnkontakte"
+    ],
+    "loesung": 0,
+    "erklaerung": "Die Seitenzähne werden bei Bewegungen entlastet (Disklusion).",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-109",
+    "lernfeld": 3,
+    "thema": "Werkstoffe",
+    "typ": "single",
+    "frage": "Welcher Werkstoff wird typischerweise für Aufbissschienen verwendet?",
+    "optionen": [
+      "PMMA-basierter Schienenkunststoff",
+      "Zirkonoxid",
+      "Edelmetall-Gusslegierung",
+      "Zinkphosphatzement"
+    ],
+    "loesung": 0,
+    "erklaerung": "Schienen bestehen meist aus klarem Kunststoff auf PMMA-Basis.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-110",
+    "lernfeld": 3,
+    "thema": "Digitale Fertigung",
+    "typ": "multiple",
+    "frage": "Welche Schritte gehören zur digitalen Schienenherstellung? (Mehrfachauswahl)",
+    "optionen": [
+      "Erfassung der Situation per Scan",
+      "Konstruktion am Computer (CAD)",
+      "Fertigung durch Fräsen oder 3D-Druck",
+      "Ausbetten der Küvette"
+    ],
+    "loesung": [
+      0,
+      1,
+      2
+    ],
+    "erklaerung": "Das Ausbetten gehört zum analogen Küvettenverfahren.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-111",
+    "lernfeld": 3,
+    "thema": "Digitale Fertigung",
+    "typ": "kurz",
+    "frage": "Was bedeutet die Platzierung eines Werkstücks im virtuellen Bauraum?",
+    "musterantwort": "Das Werkstück wird digital im Fertigungsbereich der Maschine ausgerichtet, z. B. Lage und Stützstrukturen festgelegt, bevor gefräst oder gedruckt wird.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-112",
+    "lernfeld": 3,
+    "thema": "Arbeitssicherheit",
+    "typ": "single",
+    "frage": "Welche Maßnahme schützt beim Ausarbeiten von Schienenkunststoff?",
+    "optionen": [
+      "Absaugung einschalten und Schutzbrille tragen",
+      "Ohne Absaugung arbeiten, um Zeit zu sparen",
+      "Lose Handschuhe an rotierenden Werkzeugen tragen",
+      "Mundschutz nur bei Gipsarbeiten"
+    ],
+    "loesung": 0,
+    "erklaerung": "Staub und Späne gehören abgesaugt. Die Augen schützt eine Brille. An rotierenden Werkzeugen sind lose Handschuhe gefährlich.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-113",
+    "lernfeld": 3,
+    "thema": "Allergene",
+    "typ": "single",
+    "frage": "Wie lässt sich das allergene Potenzial von Schienenkunststoff verringern?",
+    "optionen": [
+      "Sorgfältige Polymerisation nach Herstellerangaben",
+      "Kürzere Polymerisationszeit",
+      "Kunststoff weglassen",
+      "Mehr Monomer verwenden"
+    ],
+    "loesung": 0,
+    "erklaerung": "Vollständige Polymerisation senkt das Restmonomer, den wichtigsten Auslöser.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-114",
+    "lernfeld": 3,
+    "thema": "Dokumentation",
+    "typ": "kurz",
+    "frage": "Warum werden die Konstruktionsdaten einer Schiene dokumentiert?",
+    "musterantwort": "Zur Nachvollziehbarkeit und Qualitätssicherung und damit man die Schiene bei Verlust oder Bruch identisch nachfertigen kann.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  },
+  {
+    "id": "LF3-115",
+    "lernfeld": 3,
+    "thema": "Digitale Fertigung",
+    "typ": "reihenfolge",
+    "frage": "Bringen Sie die Schritte der digitalen Schienenherstellung in die richtige Reihenfolge (vereinfacht).",
+    "reihenfolge_korrekt": [
+      "Situation scannen",
+      "Schiene konstruieren",
+      "Werkstück im Bauraum platzieren und Daten übergeben",
+      "Fräsen oder Drucken",
+      "Ausarbeiten und kontrollieren"
+    ],
+    "erklaerung": "Von den Daten zum Werkstück, am Ende Nacharbeit und Kontrolle.",
+    "quelle": "Rahmenlehrplan Zahntechniker 2021, Lernfeld 3",
+    "status": "geprueft",
+    "freigegeben_am": "2026-11-22"
+  }
+]
