@@ -178,7 +178,7 @@
   {
     "id": "LF3-011",
     "lernfeld": 3,
-    "thema": "Herstellungsverfahren",
+    "thema": "Digitale Herstellung",
     "typ": "kurz",
     "frage": "Nennen Sie je ein analoges und ein digitales Herstellungsverfahren für Schienen.",
     "musterantwort": "Analog z. B. Tiefziehen oder Pressen. Digital z. B. Fräsen oder 3D-Druck nach CAD-Konstruktion.",
@@ -189,7 +189,7 @@
   {
     "id": "LF3-012",
     "lernfeld": 3,
-    "thema": "Kaubewegungen",
+    "thema": "Okklusionskonzepte",
     "typ": "single",
     "frage": "Was beschreibt die Bennett-Bewegung?",
     "optionen": [
@@ -443,7 +443,7 @@
     "id": "LF4-107",
     "lernfeld": 4,
     "typ": "multiple",
-    "thema": "Bestandteile",
+    "thema": "Prothesenbasis",
     "frage": "Welche Bestandteile hat eine Teilprothese mit Kunststoffbasis? (Mehrfachauswahl)",
     "optionen": [
       "Prothesenbasis",
@@ -724,7 +724,7 @@
   {
     "id": "LF5-108",
     "lernfeld": 5,
-    "thema": "Gebissschema",
+    "thema": "Zahnmerkmale",
     "typ": "single",
     "frage": "Wie lautet die FDI-Bezeichnung für den unteren linken ersten Prämolaren?",
     "optionen": [
