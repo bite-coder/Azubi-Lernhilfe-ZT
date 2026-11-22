@@ -16,17 +16,44 @@ export function mischen(liste) {
 
 const indizes = (n) => [...Array(n).keys()];
 
-/** Prüfungsfragen ziehen: höchstens max, anteilig je Lernfeld (Verfahren größter Rest). */
-export function ziehePruefung(pool, max) {
-  if (pool.length <= max) return mischen(pool);
-  const lfs = [...new Set(pool.map((q) => q.lernfeld))].sort();
-  const gruppen = lfs.map((n) => mischen(pool.filter((q) => q.lernfeld === n)));
-  const roh = gruppen.map((g) => (g.length / pool.length) * max);
-  const anz = roh.map(Math.floor);
-  let rest = max - anz.reduce((x, y) => x + y, 0);
-  roh.map((r, i) => [r - Math.floor(r), i]).sort((x, y) => y[0] - x[0])
-    .forEach(([, i]) => { if (rest > 0) { anz[i]++; rest--; } });
-  return mischen(gruppen.flatMap((g, i) => g.slice(0, anz[i])));
+/**
+ * Anzahl Prüfungsfragen je Lernfeld: höchstens max, im Verhältnis der Gewichte (Verfahren größter Rest).
+ * Hat ein Lernfeld zu wenige Fragen, geht der Rest anteilig an die anderen.
+ * Ohne Gewicht zählt die Zahl der vorhandenen Fragen. Ergebnis: Map lernfeld -> anzahl.
+ */
+export function pruefungsAnteile(pool, max, gewichte = {}) {
+  const lfs = [...new Set(pool.map((q) => q.lernfeld))].sort((a, b) => a - b);
+  const vorhanden = new Map(lfs.map((n) => [n, pool.filter((q) => q.lernfeld === n).length]));
+  const anz = new Map(lfs.map((n) => [n, 0]));
+  if (pool.length <= max) return vorhanden;
+  const gewicht = (n) => gewichte[n] ?? vorhanden.get(n);
+  let rest = max;
+  let offen = lfs.filter((n) => gewicht(n) > 0);
+  while (rest > 0 && offen.length) {
+    const summe = offen.reduce((s, n) => s + gewicht(n), 0);
+    const roh = offen.map((n) => [n, (rest * gewicht(n)) / summe]);
+    let vergeben = 0;
+    for (const [n, r] of roh) {
+      const k = Math.min(Math.floor(r), vorhanden.get(n) - anz.get(n));
+      anz.set(n, anz.get(n) + k);
+      vergeben += k;
+    }
+    let uebrig = rest - vergeben;
+    roh.sort((x, y) => (y[1] - Math.floor(y[1])) - (x[1] - Math.floor(x[1])));
+    for (const [n] of roh) {
+      if (uebrig <= 0) break;
+      if (anz.get(n) < vorhanden.get(n)) { anz.set(n, anz.get(n) + 1); uebrig--; }
+    }
+    rest = uebrig;
+    offen = offen.filter((n) => anz.get(n) < vorhanden.get(n));
+  }
+  return anz;
+}
+
+/** Prüfungsfragen ziehen: Anzahl je Lernfeld nach pruefungsAnteile, innerhalb des Lernfelds zufällig. */
+export function ziehePruefung(pool, max, gewichte = {}) {
+  const anteile = pruefungsAnteile(pool, max, gewichte);
+  return mischen([...anteile].flatMap(([n, k]) => mischen(pool.filter((q) => q.lernfeld === n)).slice(0, k)));
 }
 
 function mischenUngeordnet(n) {

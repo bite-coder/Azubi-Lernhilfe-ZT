@@ -1,7 +1,7 @@
 // Service Worker: macht die App offline lauffähig.
 // WICHTIG: Nach jeder Änderung an HTML, CSS, JS oder Icons die VERSION erhöhen,
 // sonst behalten installierte Apps die alte Fassung. Für neue Fragen ist das nicht nötig.
-const VERSION = "1";
+const VERSION = "2";
 const APP_CACHE = "zt-app-v" + VERSION;
 const DATEN_CACHE = "zt-daten";
 const DATEN_URL = new URL("data/questions.json", self.location).href;

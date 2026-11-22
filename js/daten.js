@@ -9,6 +9,10 @@ export const LF_TITEL = {
 };
 export const LERNFELDER = [1, 2, 3, 4, 5];
 
+// Zeitrichtwerte in Stunden laut KMK-Rahmenlehrplan Zahntechniker/-in (Lernfelder 1 bis 5, S. 10 bis 14).
+// Die Prüfungssimulation verteilt ihre Fragen in diesem Verhältnis auf die Lernfelder.
+export const ZEITRICHTWERTE = { 1: 100, 2: 80, 3: 100, 4: 60, 5: 80 };
+
 export const TYP_LABEL = {
   single: "Einfachauswahl",
   multiple: "Mehrfachauswahl",

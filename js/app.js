@@ -1,4 +1,4 @@
-import { LF_TITEL, LERNFELDER, TYP_LABEL, ladeFragen } from "./daten.js";
+import { LF_TITEL, LERNFELDER, TYP_LABEL, ZEITRICHTWERTE, ladeFragen } from "./daten.js";
 import * as sp from "./speicher.js";
 import * as k from "./karten.js";
 
@@ -365,7 +365,7 @@ function zeigePruefungStart() {
   const verlauf = sp.zustand().verlauf.slice(-5).reverse();
   aktionen = {
     start: () => {
-      const qs = k.ziehePruefung(pool, PRUEF_MAX);
+      const qs = k.ziehePruefung(pool, PRUEF_MAX, ZEITRICHTWERTE);
       const antw = {};
       qs.forEach((q) => { antw[q.id] = k.neueAntwort(q); });
       const jetzt = Date.now();
@@ -393,10 +393,11 @@ function zeigePruefungStart() {
     inhalt = `<div class="panel"><p><strong>Noch keine freigegebenen Fragen.</strong></p>
       <p class="small">In der Prüfungssimulation erscheinen nur Fragen, die die Lehrkraft geprüft hat. Bis dahin kannst du alle Fragen im Übungsmodus lernen.</p></div>`;
   } else {
-    const lfListe = LERNFELDER.filter((x) => pool.some((q) => q.lernfeld === x));
-    const lfText = lfListe.length === 1 ? `Lernfeld ${lfListe[0]}` : `den Lernfeldern ${lfListe.join(", ").replace(/, (\d)$/, " und $1")}`;
+    const anteile = k.pruefungsAnteile(pool, PRUEF_MAX, ZEITRICHTWERTE);
+    const verteilung = [...anteile].filter(([, a]) => a > 0).map(([lf, a]) => `LF ${lf}: ${a}`).join(" · ");
     inhalt = `<ul class="plain fakten">
-        <li>${mehrzahl(n, "Frage", "Fragen")} aus ${lfText}, nur von der Lehrkraft geprüfte${pool.length > n ? ` (zufällig aus ${pool.length}, anteilig je Lernfeld)` : ""}</li>
+        <li>${mehrzahl(n, "Frage", "Fragen")}, nur von der Lehrkraft geprüfte${pool.length > n ? `, zufällig aus ${pool.length}` : ""}</li>
+        <li>Verteilung nach den Zeitrichtwerten des Rahmenlehrplans: ${verteilung}</li>
         <li>${PRUEF_MINUTEN} Minuten Zeit, die Uhr läuft auch bei geschlossener App weiter</li>
         <li>Rückmeldung erst am Ende, Kurzantworten bewertest du dann selbst</li>
         <li>Vor- und Zurückblättern ist erlaubt</li></ul>
