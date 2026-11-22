@@ -71,7 +71,7 @@
   {
     "id": "LF2-005",
     "lernfeld": 2,
-    "thema": "Kaubewegungen",
+    "thema": "Kieferbewegungen",
     "typ": "single",
     "frage": "Was versteht man unter Interkuspidation?",
     "optionen": [
@@ -89,7 +89,7 @@
   {
     "id": "LF2-006",
     "lernfeld": 2,
-    "thema": "Kaubewegungen",
+    "thema": "Kieferbewegungen",
     "typ": "multiple",
     "frage": "Welche Grundbewegungen führt das Kiefergelenk aus? (Mehrfachauswahl)",
     "optionen": [
@@ -110,7 +110,7 @@
   {
     "id": "LF2-007",
     "lernfeld": 2,
-    "thema": "Kieferbewegungssimulatoren",
+    "thema": "Artikulatoren",
     "typ": "kurz",
     "frage": "Worin unterscheidet sich ein mittelwertiger von einem justierbaren Artikulator?",
     "musterantwort": "Der mittelwertige Artikulator arbeitet mit festen Durchschnittswerten. Der justierbare Artikulator wird auf die individuellen Werte des Patienten eingestellt.",
@@ -121,7 +121,7 @@
   {
     "id": "LF2-008",
     "lernfeld": 2,
-    "thema": "Arbeitsunterlagen",
+    "thema": "Registrate",
     "typ": "single",
     "frage": "Wozu dient ein Bissregistrat?",
     "optionen": [
@@ -139,7 +139,7 @@
   {
     "id": "LF3-009",
     "lernfeld": 3,
-    "thema": "Adjustierte Schienen",
+    "thema": "Schienenarten",
     "typ": "multiple",
     "frage": "Wofür wird eine adjustierte Aufbissschiene eingesetzt? (Mehrfachauswahl)",
     "optionen": [
@@ -207,7 +207,7 @@
   {
     "id": "LF4-013",
     "lernfeld": 4,
-    "thema": "Temporäre Teilprothesen",
+    "thema": "Klassifikation Lückengebiss",
     "typ": "single",
     "frage": "Was kennzeichnet eine Kennedy-Klasse III?",
     "optionen": [
@@ -225,7 +225,7 @@
   {
     "id": "LF4-014",
     "lernfeld": 4,
-    "thema": "Temporäre Teilprothesen",
+    "thema": "Interims- und Immediatprothesen",
     "typ": "kurz",
     "frage": "Worin unterscheiden sich Interims- und Immediatprothese?",
     "musterantwort": "Die Interimsprothese ist eine Übergangslösung für die Zeit bis zur endgültigen Versorgung. Die Immediatprothese wird vorab gefertigt und direkt nach der Extraktion eingegliedert.",
@@ -236,7 +236,7 @@
   {
     "id": "LF4-015",
     "lernfeld": 4,
-    "thema": "Halteelemente",
+    "thema": "Halte- und Stützelemente",
     "typ": "single",
     "frage": "Welche Aufgabe hat eine Auflage an einer Klammer?",
     "optionen": [
@@ -254,7 +254,7 @@
   {
     "id": "LF4-016",
     "lernfeld": 4,
-    "thema": "Temporäre Teilprothesen",
+    "thema": "Herstellung",
     "typ": "reihenfolge",
     "frage": "Bringen Sie die Arbeitsschritte einer Teilprothese in die richtige Reihenfolge (vereinfachte Darstellung).",
     "reihenfolge_korrekt": [
@@ -272,7 +272,7 @@
   {
     "id": "LF5-017",
     "lernfeld": 5,
-    "thema": "Einzelkronen",
+    "thema": "Zahnaufbau",
     "typ": "single",
     "frage": "Welche Zahnsubstanz ist die härteste?",
     "optionen": [
@@ -290,7 +290,7 @@
   {
     "id": "LF5-018",
     "lernfeld": 5,
-    "thema": "Einzelkronen",
+    "thema": "Präparation",
     "typ": "multiple",
     "frage": "Welche Formen der Präparationsgrenze gibt es? (Mehrfachauswahl)",
     "optionen": [
@@ -312,7 +312,7 @@
   {
     "id": "LF5-019",
     "lernfeld": 5,
-    "thema": "Einzelkronen",
+    "thema": "Zahnreihe",
     "typ": "kurz",
     "frage": "Welche Aufgabe hat der Approximalkontakt?",
     "musterantwort": "Er stabilisiert die Zahnreihe und schützt die Zahnzwischenräume vor eindringenden Speiseresten.",
@@ -323,7 +323,7 @@
   {
     "id": "LF5-020",
     "lernfeld": 5,
-    "thema": "Einzelkronen",
+    "thema": "Zahnmerkmale",
     "typ": "single",
     "frage": "Wie heißt die Kaufläche eines Seitenzahns?",
     "optionen": [
@@ -512,7 +512,7 @@
     "id": "LF4-111",
     "lernfeld": 4,
     "typ": "reihenfolge",
-    "thema": "Herstellung Kunststoffbasis",
+    "thema": "Herstellung",
     "frage": "Bringen Sie die Schritte zur Herstellung der Kunststoffbasis im Küvettenverfahren in die richtige Reihenfolge (vereinfacht).",
     "reihenfolge_korrekt": [
       "Zahnaufstellung in der Küvette einbetten",
@@ -706,7 +706,7 @@
   {
     "id": "LF5-107",
     "lernfeld": 5,
-    "thema": "Kronenrand",
+    "thema": "Gestaltung",
     "typ": "single",
     "frage": "Warum ist ein gut angepasster Kronenrand für die Mundgesundheit wichtig?",
     "optionen": [
@@ -793,7 +793,7 @@
   {
     "id": "LF5-112",
     "lernfeld": 5,
-    "thema": "Pflegbarkeit",
+    "thema": "Gestaltung",
     "typ": "single",
     "frage": "Warum muss eine Krone pflegbar gestaltet sein?",
     "optionen": [
@@ -811,7 +811,7 @@
   {
     "id": "LF5-113",
     "lernfeld": 5,
-    "thema": "Modellation",
+    "thema": "Gestaltung",
     "typ": "reihenfolge",
     "frage": "Bringen Sie die Schritte der analogen Kronenmodellation in die richtige Reihenfolge (vereinfacht).",
     "reihenfolge_korrekt": [
@@ -829,7 +829,7 @@
   {
     "id": "LF5-114",
     "lernfeld": 5,
-    "thema": "Hilfswerkstoffe",
+    "thema": "Werkstoffe",
     "typ": "single",
     "frage": "Warum kann eine Wachsmodellation ungenau werden, wenn sie warm oder zu lange liegt?",
     "optionen": [
@@ -847,7 +847,7 @@
   {
     "id": "LF5-115",
     "lernfeld": 5,
-    "thema": "Werkstoffwahl",
+    "thema": "Werkstoffe",
     "typ": "single",
     "frage": "Warum müssen Präparationsgrenze und Kronenwerkstoff aufeinander abgestimmt sein?",
     "optionen": [
@@ -955,7 +955,7 @@
   {
     "id": "LF1-106",
     "lernfeld": 1,
-    "thema": "Abformung digital",
+    "thema": "Digitale Abformung",
     "typ": "multiple",
     "frage": "Welche Verfahren gehören zur digitalen Erfassung? (Mehrfachauswahl)",
     "optionen": [
@@ -976,7 +976,7 @@
   {
     "id": "LF1-107",
     "lernfeld": 1,
-    "thema": "Abformqualität",
+    "thema": "Abformung",
     "typ": "multiple",
     "frage": "Welche Mängel machen eine Abformung unbrauchbar? (Mehrfachauswahl)",
     "optionen": [
@@ -1056,7 +1056,7 @@
   {
     "id": "LF1-112",
     "lernfeld": 1,
-    "thema": "Entsorgung",
+    "thema": "Umweltschutz",
     "typ": "single",
     "frage": "Wie wird Gipsabfall im Labor richtig behandelt?",
     "optionen": [
@@ -1092,7 +1092,7 @@
   {
     "id": "LF1-114",
     "lernfeld": 1,
-    "thema": "Kundenauftrag",
+    "thema": "Arbeitsunterlagen",
     "typ": "kurz",
     "frage": "Nennen Sie drei Angaben, die auf einem Auftragszettel stehen sollten.",
     "musterantwort": "z. B. Patientenname oder ID, Praxis, Art der Arbeit, Zahnschema mit betroffenen Zähnen, Farbe, Liefertermin.",
@@ -1103,7 +1103,7 @@
   {
     "id": "LF1-115",
     "lernfeld": 1,
-    "thema": "Ergonomie",
+    "thema": "Arbeitssicherheit",
     "typ": "single",
     "frage": "Welche Haltung ist am Laborarbeitsplatz ergonomisch?",
     "optionen": [
@@ -1157,7 +1157,7 @@
   {
     "id": "LF2-103",
     "lernfeld": 2,
-    "thema": "Eugnathie",
+    "thema": "Okklusion",
     "typ": "single",
     "frage": "Was versteht man unter Eugnathie?",
     "optionen": [
@@ -1193,7 +1193,7 @@
   {
     "id": "LF2-105",
     "lernfeld": 2,
-    "thema": "Schädelbezugsebenen",
+    "thema": "Schädelbezug",
     "typ": "single",
     "frage": "Wie ist die Frankfurter Horizontale definiert?",
     "optionen": [
@@ -1265,7 +1265,7 @@
   {
     "id": "LF2-109",
     "lernfeld": 2,
-    "thema": "Simulation",
+    "thema": "Grenzen der Simulation",
     "typ": "kurz",
     "frage": "Nennen Sie eine Grenze der mittelwertigen Simulation von Kieferbewegungen.",
     "musterantwort": "Individuelle Gelenkbahnen weichen vom Durchschnitt ab, bei komplexen Rekonstruktionen oder CMD kann die Simulation ungenau sein.",
@@ -1276,7 +1276,7 @@
   {
     "id": "LF2-110",
     "lernfeld": 2,
-    "thema": "Digitale Simulatoren",
+    "thema": "Digitale Simulation",
     "typ": "single",
     "frage": "Welchen Vorteil hat ein digitaler Bewegungssimulator (virtueller Artikulator)?",
     "optionen": [
@@ -1500,7 +1500,7 @@
   {
     "id": "LF3-107",
     "lernfeld": 3,
-    "thema": "Artikulatoren",
+    "thema": "Modellmontage",
     "typ": "single",
     "frage": "Was lässt sich an einem justierbaren Artikulator typischerweise einstellen?",
     "optionen": [
@@ -1554,7 +1554,7 @@
   {
     "id": "LF3-110",
     "lernfeld": 3,
-    "thema": "Digitale Fertigung",
+    "thema": "Digitale Herstellung",
     "typ": "multiple",
     "frage": "Welche Schritte gehören zur digitalen Schienenherstellung? (Mehrfachauswahl)",
     "optionen": [
@@ -1576,7 +1576,7 @@
   {
     "id": "LF3-111",
     "lernfeld": 3,
-    "thema": "Digitale Fertigung",
+    "thema": "Digitale Herstellung",
     "typ": "kurz",
     "frage": "Was bedeutet die Platzierung eines Werkstücks im virtuellen Bauraum?",
     "musterantwort": "Das Werkstück wird digital im Fertigungsbereich der Maschine ausgerichtet, z. B. Lage und Stützstrukturen festgelegt, bevor gefräst oder gedruckt wird.",
@@ -1605,7 +1605,7 @@
   {
     "id": "LF3-113",
     "lernfeld": 3,
-    "thema": "Allergene",
+    "thema": "Werkstoffe",
     "typ": "single",
     "frage": "Wie lässt sich das allergene Potenzial von Schienenkunststoff verringern?",
     "optionen": [
@@ -1634,7 +1634,7 @@
   {
     "id": "LF3-115",
     "lernfeld": 3,
-    "thema": "Digitale Fertigung",
+    "thema": "Digitale Herstellung",
     "typ": "reihenfolge",
     "frage": "Bringen Sie die Schritte der digitalen Schienenherstellung in die richtige Reihenfolge (vereinfacht).",
     "reihenfolge_korrekt": [
@@ -2440,7 +2440,7 @@
   {
     "id": "LF1-244",
     "lernfeld": 1,
-    "thema": "Abformmethoden",
+    "thema": "Abformung",
     "typ": "single",
     "frage": "Was passiert, wenn man eine Abformung vor dem vollständigen Abbinden bewegt?",
     "optionen": [
@@ -2458,7 +2458,7 @@
   {
     "id": "LF1-245",
     "lernfeld": 1,
-    "thema": "Abformmethoden",
+    "thema": "Abformung",
     "typ": "single",
     "frage": "Wozu dient ein Abformlöffel?",
     "optionen": [
@@ -2642,7 +2642,7 @@
   {
     "id": "LF1-256",
     "lernfeld": 1,
-    "thema": "Modellarten",
+    "thema": "Modellherstellung",
     "typ": "single",
     "frage": "Wozu dient ein Sägemodell?",
     "optionen": [
@@ -2660,7 +2660,7 @@
   {
     "id": "LF1-257",
     "lernfeld": 1,
-    "thema": "Modellarten",
+    "thema": "Modellherstellung",
     "typ": "single",
     "frage": "Welche Aufgabe hat ein Gegenkiefermodell?",
     "optionen": [
@@ -2678,7 +2678,7 @@
   {
     "id": "LF1-258",
     "lernfeld": 1,
-    "thema": "Modellarten",
+    "thema": "Modellherstellung",
     "typ": "single",
     "frage": "Welches Modell ist die Arbeitsgrundlage für die Herstellung des Zahnersatzes?",
     "optionen": [
@@ -2696,7 +2696,7 @@
   {
     "id": "LF1-259",
     "lernfeld": 1,
-    "thema": "Modellarten",
+    "thema": "Modellherstellung",
     "typ": "single",
     "frage": "Wozu dient ein Situationsmodell?",
     "optionen": [
@@ -3205,7 +3205,7 @@
   {
     "id": "LF1-288",
     "lernfeld": 1,
-    "thema": "Qualitätsprüfung",
+    "thema": "Fehleranalyse",
     "typ": "single",
     "frage": "Wozu dient die Qualitätskontrolle im Labor?",
     "optionen": [
@@ -4636,7 +4636,7 @@
   {
     "id": "LF2-280",
     "lernfeld": 2,
-    "thema": "Grenzen",
+    "thema": "Grenzen der Simulation",
     "typ": "single",
     "frage": "Warum kann die mittelwertige Simulation zu Nacharbeit am Patienten führen?",
     "optionen": [
@@ -4654,7 +4654,7 @@
   {
     "id": "LF2-281",
     "lernfeld": 2,
-    "thema": "Grenzen",
+    "thema": "Grenzen der Simulation",
     "typ": "single",
     "frage": "Welche Folge kann eine falsche Kieferrelation im Labor haben?",
     "optionen": [
@@ -4672,7 +4672,7 @@
   {
     "id": "LF2-282",
     "lernfeld": 2,
-    "thema": "Grenzen",
+    "thema": "Grenzen der Simulation",
     "typ": "kurz",
     "frage": "Nennen Sie zwei Fehler, die zu falschen Kontakten im Mund führen können.",
     "musterantwort": "z. B. falsches Registrat, ungenaue Modellmontage, falsch eingestellter Artikulator, Modellverzug.",
@@ -4683,7 +4683,7 @@
   {
     "id": "LF2-283",
     "lernfeld": 2,
-    "thema": "Grenzen",
+    "thema": "Grenzen der Simulation",
     "typ": "single",
     "frage": "Wann ist ein individuell einstellbarer Artikulator besonders sinnvoll?",
     "optionen": [
@@ -4849,7 +4849,7 @@
   {
     "id": "LF3-209",
     "lernfeld": 3,
-    "thema": "Muskulatur",
+    "thema": "Craniomandibuläre Dysfunktion",
     "typ": "single",
     "frage": "Was bewirkt eine Entspannung der Kaumuskulatur?",
     "optionen": [
@@ -4867,7 +4867,7 @@
   {
     "id": "LF3-210",
     "lernfeld": 3,
-    "thema": "Muskulatur",
+    "thema": "Craniomandibuläre Dysfunktion",
     "typ": "single",
     "frage": "Welcher Muskel ist bei vielen Patienten mit Knirschen besonders verspannt?",
     "optionen": [
@@ -5868,7 +5868,7 @@
   {
     "id": "LF3-266",
     "lernfeld": 3,
-    "thema": "Allergene",
+    "thema": "Werkstoffe",
     "typ": "single",
     "frage": "Welche Stoffe in Kunststoffen können Allergien auslösen?",
     "optionen": [
@@ -5886,7 +5886,7 @@
   {
     "id": "LF3-267",
     "lernfeld": 3,
-    "thema": "Allergene",
+    "thema": "Werkstoffe",
     "typ": "single",
     "frage": "Welche Maßnahme senkt das Allergierisiko bei gedruckten Schienen?",
     "optionen": [
@@ -6034,7 +6034,7 @@
   {
     "id": "LF3-276",
     "lernfeld": 3,
-    "thema": "Aufbissschienen",
+    "thema": "Schienenarten",
     "typ": "multiple",
     "frage": "Welche Aufgaben kann eine Aufbissschiene haben? (Mehrfachauswahl)",
     "optionen": [
@@ -6056,7 +6056,7 @@
   {
     "id": "LF3-277",
     "lernfeld": 3,
-    "thema": "Aufbissschienen",
+    "thema": "Schienenarten",
     "typ": "single",
     "frage": "Was bedeutet „adjustiert“ bei einer Aufbissschiene?",
     "optionen": [
@@ -6298,7 +6298,7 @@
   {
     "id": "LF4-208",
     "lernfeld": 4,
-    "thema": "Restzahnbestand",
+    "thema": "Klassifikation Lückengebiss",
     "typ": "single",
     "frage": "Was versteht man unter dem Restzahnbestand?",
     "optionen": [
@@ -7667,7 +7667,7 @@
   {
     "id": "LF4-284",
     "lernfeld": 4,
-    "thema": "Qualitätsmanagement",
+    "thema": "Qualitätsprüfung",
     "typ": "single",
     "frage": "Wer wird bei Abweichungen im Ablauf im Labor zuerst informiert?",
     "optionen": [
@@ -7851,7 +7851,7 @@
   {
     "id": "LF5-207",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie nennt man die erhabenen Teile der Kaufläche?",
     "optionen": [
@@ -7869,7 +7869,7 @@
   {
     "id": "LF5-208",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie nennt man die Vertiefungen zwischen den Höckern?",
     "optionen": [
@@ -7887,7 +7887,7 @@
   {
     "id": "LF5-209",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie heißt die Erhebung am Rand der Kaufläche?",
     "optionen": [
@@ -7905,7 +7905,7 @@
   {
     "id": "LF5-210",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie viele Höcker hat ein oberer erster Molar typischerweise?",
     "optionen": [
@@ -7923,7 +7923,7 @@
   {
     "id": "LF5-211",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Welche Form hat die Kaufläche eines Eckzahns?",
     "optionen": [
@@ -7941,7 +7941,7 @@
   {
     "id": "LF5-212",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Welche Funktion haben die Schneidezähne?",
     "optionen": [
@@ -7959,7 +7959,7 @@
   {
     "id": "LF5-213",
     "lernfeld": 5,
-    "thema": "Kronentopografie",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Welche Funktion haben die Molaren?",
     "optionen": [
@@ -8427,7 +8427,7 @@
   {
     "id": "LF5-239",
     "lernfeld": 5,
-    "thema": "Kronenform",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Warum ist die Kronenform für die Mundgesundheit wichtig?",
     "optionen": [
@@ -8445,7 +8445,7 @@
   {
     "id": "LF5-240",
     "lernfeld": 5,
-    "thema": "Kronenform",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Welche Folge hat ein überstehender Kronenrand?",
     "optionen": [
@@ -8463,7 +8463,7 @@
   {
     "id": "LF5-241",
     "lernfeld": 5,
-    "thema": "Kronenform",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Welche Folge hat ein zu knapper Kronenrand?",
     "optionen": [
@@ -8481,7 +8481,7 @@
   {
     "id": "LF5-242",
     "lernfeld": 5,
-    "thema": "Kronenform",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie sollte der Kronenrand zum Zahnfleisch verlaufen?",
     "optionen": [
@@ -8499,7 +8499,7 @@
   {
     "id": "LF5-243",
     "lernfeld": 5,
-    "thema": "Kronenform",
+    "thema": "Kronenform und Topografie",
     "typ": "single",
     "frage": "Wie sollte die Oberfläche einer Krone gestaltet sein?",
     "optionen": [
@@ -9267,7 +9267,7 @@
   {
     "id": "LF5-287",
     "lernfeld": 5,
-    "thema": "Dokumentation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "single",
     "frage": "Warum werden Arbeitsschritte bei der Kronenherstellung dokumentiert?",
     "optionen": [
@@ -9285,7 +9285,7 @@
   {
     "id": "LF5-288",
     "lernfeld": 5,
-    "thema": "Präsentation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "single",
     "frage": "Wozu eignet sich die Präsentation mit digitalen Medien?",
     "optionen": [
@@ -9303,7 +9303,7 @@
   {
     "id": "LF5-289",
     "lernfeld": 5,
-    "thema": "Präsentation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "kurz",
     "frage": "Nennen Sie zwei Regeln für eine gute Präsentation.",
     "musterantwort": "z. B. klare Gliederung, wenig Text pro Folie, Fachbegriffe erklären, Blickkontakt, Zeit einhalten.",
@@ -9314,7 +9314,7 @@
   {
     "id": "LF5-290",
     "lernfeld": 5,
-    "thema": "Kommunikation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "single",
     "frage": "Was tun Sie, wenn Präparationsgrenze und Werkstoff nicht zusammenpassen?",
     "optionen": [
@@ -9332,7 +9332,7 @@
   {
     "id": "LF5-291",
     "lernfeld": 5,
-    "thema": "Kommunikation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "single",
     "frage": "Warum ist Rückfrage bei unklarem Auftrag wichtig?",
     "optionen": [
@@ -9350,7 +9350,7 @@
   {
     "id": "LF5-292",
     "lernfeld": 5,
-    "thema": "Kommunikation",
+    "thema": "Kommunikation und Dokumentation",
     "typ": "single",
     "frage": "Wie sollte Kritik an einer Arbeit geäußert werden?",
     "optionen": [
